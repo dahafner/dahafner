@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 ICT System & Network Engineer at Zollikofer IT
-- 🌱 I’m currently learning ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 - ❤️ Likes Badminton, Darts
 
 ## 🔧 Technologies & Tools
@@ -18,7 +17,6 @@
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)
 
 <!--
 **dahafner/dahafner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
